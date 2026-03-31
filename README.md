@@ -24,7 +24,7 @@ The following repositories provide a complete, end-to-end implementation of the 
 | :--- | :--- | :--- |
 | **Mobile Application** | [access-control-app](https://github.com/Mrazakos/access-control-app) | Manages Decentralized Identifiers (DIDs), handles secure credential storage, and facilitates user-side request signing. |
 | **Smart Lock** | [access-control-lock](https://github.com/Mrazakos/access-control-lock) | Simulates an IoT device that validates credentials and triggers hardware actions. |
-| **Smart Contract** | [access-control-contract](https://github.com/Mrazakos/access-control-contract) | Functions as the decentralized authority, managing authorization logic, credential revocation lists, and state transitions. |
+| **Smart Contract** | [access-control-contract](https://github.com/Mrazakos/acces-control-contract) | Functions as the decentralized authority, managing authorization logic, credential revocation lists, and state transitions. |
 
 ---
 
